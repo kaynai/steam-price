@@ -1,0 +1,28 @@
+{
+  "games": [
+    { "appid": 1245620, "name": "ELDEN RING", "nameCN": "艾尔登法环" },
+    { "appid": 1091500, "name": "Cyberpunk 2077", "nameCN": "赛博朋克2077" },
+    { "appid": 3240220, "name": "Grand Theft Auto V Enhanced", "nameCN": "GTA5" },
+    { "appid": 1174180, "name": "Red Dead Redemption 2", "nameCN": "荒野大镖客2" },
+    { "appid": 292030, "name": "The Witcher 3: Wild Hunt", "nameCN": "巫师3" },
+    { "appid": 814380, "name": "Sekiro: Shadows Die Twice", "nameCN": "只狼" },
+    { "appid": 990080, "name": "Hogwarts Legacy", "nameCN": "霍格沃茨之遗" },
+    { "appid": 1817190, "name": "Marvel's Spider-Man Remastered", "nameCN": "漫威蜘蛛侠重制版" },
+    { "appid": 2358720, "name": "Black Myth: Wukong", "nameCN": "黑神话：悟空" },
+    { "appid": 1086940, "name": "Baldur's Gate 3", "nameCN": "博德之门3" },
+    { "appid": 582010, "name": "Monster Hunter: World", "nameCN": "怪物猎人：世界" },
+    { "appid": 2246340, "name": "Monster Hunter Wilds", "nameCN": "怪物猎人：荒野" },
+    { "appid": 2050650, "name": "RESIDENT EVIL 4", "nameCN": "生化危机4重制版" },
+    { "appid": 1888930, "name": "The Last of Us Part I", "nameCN": "最后生还者" },
+    { "appid": 1623730, "name": "Palworld", "nameCN": "幻兽帕鲁" },
+    { "appid": 892970, "name": "Valheim", "nameCN": "英灵神殿" },
+    { "appid": 103030, "name": "Hollow Knight", "nameCN": "空洞骑士" },
+    { "appid": 413150, "name": "Stardew Valley", "nameCN": "星露谷物语" },
+    { "appid": 105600, "name": "Terraria", "nameCN": "泰拉瑞亚" },
+    { "appid": 322330, "name": "Don't Starve Together", "nameCN": "饥荒联机版" },
+    { "appid": 1145360, "name": "Hades", "nameCN": "哈迪斯" },
+    { "appid": 289070, "name": "Sid Meier's Civilization VI", "nameCN": "文明6" },
+    { "appid": 1868140, "name": "DAVE THE DIVER", "nameCN": "潜水员戴夫" },
+    { "appid": 252490, "name": "Rust", "nameCN": "腐蚀" }
+  ]
+}
