@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Steam 跨区比价 · 各区价格 & 第三方渠道</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>" />
+</head>
+<body>
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+  <div class="orb orb-3"></div>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <h1>🎮 Steam 跨区比价</h1>
+      <div class="meta" id="meta">加载中…</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- 搜索与游戏列表 -->
+    <section class="search-box">
+      <input id="search" type="text" placeholder="搜索游戏名称（中/英文）或 AppID…" autocomplete="off" />
+      <div id="search-hint" class="search-hint"></div>
+    </section>
+
+    <section id="game-list" class="game-grid"></section>
+
+    <!-- 游戏详情 -->
+    <section id="detail" class="detail hidden">
+      <button id="back" class="btn-back">← 返回列表</button>
+
+      <div class="detail-head">
+        <img id="d-img" class="d-img" alt="" />
+        <div class="d-info">
+          <h2 id="d-name"></h2>
+          <div class="d-sub" id="d-sub"></div>
+          <div class="d-actions">
+            <a id="d-steam" class="btn" target="_blank" rel="noopener">Steam 商店页 ↗</a>
+            <a id="d-cheapest" class="btn btn-green" target="_blank" rel="noopener">去最便宜区购买 ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 最优结论卡片 -->
+      <div id="verdict" class="verdict"></div>
+
+      <!-- 各区价格表 -->
+      <h3>🌍 各地区 Steam 价格（换算人民币）</h3>
+      <div class="table-wrap">
+        <table id="region-table">
+          <thead>
+            <tr>
+              <th>地区</th><th>原价</th><th>折扣</th><th>现价</th><th>换算人民币</th><th>对比国区</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!-- 第三方渠道 -->
+      <h3>🛒 第三方 / 渠道比价</h3>
+      <div id="channels" class="channel-grid"></div>
+      <p class="risk-note">
+        ⚠️ 提示：跨区礼物 / 代购、第三方 CDKey 存在账号风险（Steam 对非法渠道零容忍），购买前请自行评估。
+        阿根廷区、土耳其区自 2023 年 11 月起已改为美元定价。
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      数据来源：Steam 官方商店 API · 小黑盒 · CheapShark · open.er-api.com 汇率 |
+      价格与汇率每日自动更新（GitHub Actions）
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
