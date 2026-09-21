@@ -1,0 +1,2765 @@
+{
+ "updatedAt": "2026-09-21T10:38:32.696Z",
+ "rates": {
+  "CNY": 1,
+  "AED": 0.547749,
+  "AFN": 9.666323,
+  "ALL": 11.928208,
+  "AMD": 54.360524,
+  "ANG": 0.266976,
+  "AOA": 145.774,
+  "ARS": 225.56272,
+  "AUD": 0.209606,
+  "AWG": 0.266976,
+  "AZN": 0.254331,
+  "BAM": 0.254232,
+  "BBD": 0.298298,
+  "BDT": 18.354828,
+  "BGN": 0.254232,
+  "BHD": 0.05608,
+  "BIF": 447.504575,
+  "BMD": 0.149149,
+  "BND": 0.19034,
+  "BOB": 1.675968,
+  "BRL": 0.764059,
+  "BSD": 0.149149,
+  "BTN": 14.303287,
+  "BWP": 2.152018,
+  "BYN": 0.452484,
+  "BZD": 0.298298,
+  "CAD": 0.208742,
+  "CDF": 345.280527,
+  "CHF": 0.12273,
+  "CLF": 0.003629,
+  "CLP": 143.452563,
+  "CNH": 0.999769,
+  "COP": 472.148094,
+  "CRC": 66.934041,
+  "CUP": 3.579572,
+  "CVE": 14.333005,
+  "CZK": 3.157562,
+  "DJF": 26.506878,
+  "DKK": 0.970835,
+  "DOP": 8.796769,
+  "DZD": 20.019884,
+  "EGP": 7.771199,
+  "ERN": 2.237232,
+  "ETB": 24.060564,
+  "EUR": 0.129987,
+  "FJD": 0.331653,
+  "FKP": 0.111467,
+  "FOK": 0.970828,
+  "GBP": 0.111467,
+  "GEL": 0.38929,
+  "GGP": 0.111467,
+  "GHS": 1.724279,
+  "GIP": 0.111467,
+  "GMD": 11.109422,
+  "GNF": 1313.120238,
+  "GTQ": 1.141853,
+  "GYD": 31.343071,
+  "HKD": 1.170289,
+  "HNL": 4.019293,
+  "HRK": 0.979386,
+  "HTG": 19.55901,
+  "HUF": 46.915318,
+  "IDR": 2645.502646,
+  "ILS": 0.452213,
+  "IMP": 0.111467,
+  "INR": 14.303287,
+  "IQD": 196.070754,
+  "IRR": 227355.276883,
+  "ISK": 18.134394,
+  "JEP": 0.111467,
+  "JMD": 23.597896,
+  "JOD": 0.105747,
+  "JPY": 23.416401,
+  "KES": 19.32,
+  "KGS": 13.093526,
+  "KHR": 604.229607,
+  "KID": 0.209606,
+  "KMF": 63.949361,
+  "KRW": 205.507604,
+  "KWD": 0.045997,
+  "KYD": 0.124291,
+  "KZT": 66.666667,
+  "LAK": 3334.411748,
+  "LBP": 13348.819852,
+  "LKR": 49.5759,
+  "LRD": 25.957565,
+  "LSL": 2.42076,
+  "LYD": 0.951504,
+  "MAD": 1.422491,
+  "MDL": 2.619755,
+  "MGA": 653.044304,
+  "MKD": 8.035026,
+  "MMK": 314.443249,
+  "MNT": 536.480687,
+  "MOP": 1.205393,
+  "MRU": 6.029288,
+  "MUR": 7.234303,
+  "MVR": 2.306903,
+  "MWK": 260.705407,
+  "MXN": 2.545825,
+  "MYR": 0.607755,
+  "MZN": 9.52353,
+  "NAD": 2.42076,
+  "NGN": 198.791248,
+  "NIO": 5.503073,
+  "NOK": 1.404917,
+  "NPR": 22.885259,
+  "NZD": 0.261003,
+  "OMR": 0.057347,
+  "PAB": 0.149149,
+  "PEN": 0.504125,
+  "PGK": 0.670616,
+  "PHP": 9.337068,
+  "PKR": 41.37874,
+  "PLN": 0.563222,
+  "PYG": 890.034451,
+  "QAR": 0.542902,
+  "RON": 0.683387,
+  "RSD": 15.246227,
+  "RUB": 12.61034,
+  "RWF": 220.616617,
+  "SAR": 0.559308,
+  "SBD": 1.184927,
+  "SCR": 2.197934,
+  "SDG": 76.590921,
+  "SEK": 1.468642,
+  "SGD": 0.19034,
+  "SHP": 0.111467,
+  "SLE": 3.71512,
+  "SLL": 3715.109504,
+  "SOS": 85.599134,
+  "SRD": 5.686257,
+  "SSP": 844.890971,
+  "STN": 3.184679,
+  "SYP": 18.221475,
+  "SZL": 2.42076,
+  "THB": 4.962063,
+  "TJS": 1.386418,
+  "TMT": 0.526748,
+  "TND": 0.437926,
+  "TOP": 0.356281,
+  "TRY": 7.24113,
+  "TTD": 1.016115,
+  "TVD": 0.209606,
+  "TWD": 4.750594,
+  "TZS": 394.878881,
+  "UAH": 6.67391,
+  "UGX": 584.796139,
+  "USD": 0.149149,
+  "UYU": 6.015681,
+  "UZS": 1768.338144,
+  "VES": 126.857399,
+  "VND": 3875.968992,
+  "VUV": 17.673471,
+  "WST": 0.406006,
+  "XAF": 85.265815,
+  "XCD": 0.402702,
+  "XCG": 0.266976,
+  "XDR": 0.109191,
+  "XOF": 85.265815,
+  "XPF": 15.511596,
+  "YER": 35.403064,
+  "ZAR": 2.42077,
+  "ZMW": 2.961208,
+  "ZWG": 3.974488,
+  "ZWL": 3.974499
+ },
+ "regions": [
+  {
+   "cc": "cn",
+   "name": "国区",
+   "flag": "🇨🇳"
+  },
+  {
+   "cc": "us",
+   "name": "美国",
+   "flag": "🇺🇸"
+  },
+  {
+   "cc": "gb",
+   "name": "英国",
+   "flag": "🇬🇧"
+  },
+  {
+   "cc": "de",
+   "name": "欧元区",
+   "flag": "🇪🇺"
+  },
+  {
+   "cc": "jp",
+   "name": "日本",
+   "flag": "🇯🇵"
+  },
+  {
+   "cc": "kr",
+   "name": "韩国",
+   "flag": "🇰🇷"
+  },
+  {
+   "cc": "ru",
+   "name": "俄罗斯",
+   "flag": "🇷🇺"
+  },
+  {
+   "cc": "in",
+   "name": "印度",
+   "flag": "🇮🇳"
+  },
+  {
+   "cc": "br",
+   "name": "巴西",
+   "flag": "🇧🇷"
+  },
+  {
+   "cc": "ca",
+   "name": "加拿大",
+   "flag": "🇨🇦"
+  },
+  {
+   "cc": "au",
+   "name": "澳大利亚",
+   "flag": "🇦🇺"
+  },
+  {
+   "cc": "mx",
+   "name": "墨西哥",
+   "flag": "🇲🇽"
+  },
+  {
+   "cc": "hk",
+   "name": "中国香港",
+   "flag": "🇭🇰"
+  },
+  {
+   "cc": "tw",
+   "name": "中国台湾",
+   "flag": "🇹🇼"
+  },
+  {
+   "cc": "pl",
+   "name": "波兰",
+   "flag": "🇵🇱"
+  },
+  {
+   "cc": "no",
+   "name": "挪威",
+   "flag": "🇳🇴"
+  },
+  {
+   "cc": "tr",
+   "name": "土耳其",
+   "flag": "🇹🇷"
+  },
+  {
+   "cc": "ar",
+   "name": "阿根廷",
+   "flag": "🇦🇷"
+  }
+ ],
+ "games": {
+  "105600": {
+   "name": "Terraria",
+   "nameCN": "泰拉瑞亚",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 42,
+     "final": 42,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 9.99,
+     "final": 9.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 8.5,
+     "final": 8.5,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 9.75,
+     "final": 9.75,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 120000,
+     "final": 120000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 1100000,
+     "final": 1100000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 385,
+     "final": 385,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 480,
+     "final": 480,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 32.99,
+     "final": 32.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 12.99,
+     "final": 12.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 14.5,
+     "final": 14.5,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 123.99,
+     "final": 123.99,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 66,
+     "final": 66,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 18800,
+     "final": 18800,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 45.99,
+     "final": 45.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 110,
+     "final": 110,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 5.79,
+     "final": 5.79,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 5.79,
+     "final": 5.79,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "42",
+    "current": "42",
+    "discount": 0,
+    "lowest": 12,
+    "isLowest": false
+   }
+  },
+  "252490": {
+   "name": "Rust",
+   "nameCN": "腐蚀",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 138,
+     "final": 69,
+     "discount": 50
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 39.99,
+     "final": 19.99,
+     "discount": 50
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 34.99,
+     "final": 17.49,
+     "discount": 50
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 39.99,
+     "final": 19.99,
+     "discount": 50
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 460000,
+     "final": 230000,
+     "discount": 50
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 4200000,
+     "final": 2100000,
+     "discount": 50
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 1699,
+     "final": 849,
+     "discount": 50
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 1799,
+     "final": 899,
+     "discount": 50
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 119.99,
+     "final": 59.99,
+     "discount": 50
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 51.99,
+     "final": 25.99,
+     "discount": 50
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 59.95,
+     "final": 29.97,
+     "discount": 50
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 449,
+     "final": 224.5,
+     "discount": 50
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 238,
+     "final": 119,
+     "discount": 50
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 69900,
+     "final": 34900,
+     "discount": 50
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 119.99,
+     "final": 59.99,
+     "discount": 50
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 369,
+     "final": 184.5,
+     "discount": 50
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 18.99,
+     "final": 9.49,
+     "discount": 50
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 18.99,
+     "final": 9.49,
+     "discount": 50
+    }
+   },
+   "heybox": {
+    "initial": "138",
+    "current": "69",
+    "discount": 50,
+    "lowest": 25,
+    "isLowest": false
+   }
+  },
+  "289070": {
+   "name": "Sid Meier's Civilization VI",
+   "nameCN": "文明6",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 220,
+     "final": 220,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 700000,
+     "final": 700000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 6500000,
+     "final": 6500000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 2499,
+     "final": 2499,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 129,
+     "final": 129,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 599,
+     "final": 599,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 465,
+     "final": 465,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 179000,
+     "final": 179000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 257.9,
+     "final": 257.9,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 599,
+     "final": 599,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "220",
+    "current": "220",
+    "discount": 0,
+    "lowest": 11,
+    "isLowest": false
+   }
+  },
+  "292030": {
+   "name": "The Witcher 3: Wild Hunt",
+   "nameCN": "巫师3",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 199,
+     "final": 199,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 39.99,
+     "final": 39.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 649000,
+     "final": 649000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 5490000,
+     "final": 5490000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 2899,
+     "final": 2899,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 159.99,
+     "final": 159.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 69.99,
+     "final": 69.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 69.99,
+     "final": 69.99,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 699,
+     "final": 699,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 389,
+     "final": 389,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 99900,
+     "final": 99900,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 149.99,
+     "final": 149.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 490,
+     "final": 490,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 34.99,
+     "final": 34.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 34.99,
+     "final": 34.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "199",
+    "current": "199",
+    "discount": 0,
+    "lowest": 15,
+    "isLowest": false
+   }
+  },
+  "322330": {
+   "name": "Don't Starve Together",
+   "nameCN": "饥荒联机版",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 24,
+     "final": 24,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 10.99,
+     "final": 10.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 148000,
+     "final": 148000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 1550000,
+     "final": 1550000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 349,
+     "final": 349,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 459,
+     "final": 459,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 27.99,
+     "final": 27.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 16.99,
+     "final": 16.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 21.5,
+     "final": 21.5,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 149.99,
+     "final": 149.99,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 76,
+     "final": 76,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 26800,
+     "final": 26800,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 53.99,
+     "final": 53.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 100,
+     "final": 100,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 6.59,
+     "final": 6.59,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 6.59,
+     "final": 6.59,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "24",
+    "current": "24",
+    "discount": 0,
+    "lowest": 5,
+    "isLowest": false
+   }
+  },
+  "413150": {
+   "name": "Stardew Valley",
+   "nameCN": "星露谷物语",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 48,
+     "final": 48,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 10.99,
+     "final": 10.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 13.99,
+     "final": 13.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 148000,
+     "final": 148000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 1600000,
+     "final": 1600000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 299,
+     "final": 299,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 479,
+     "final": 479,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 24.99,
+     "final": 24.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 16.99,
+     "final": 16.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 16.99,
+     "final": 16.99,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 149.99,
+     "final": 149.99,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 99,
+     "final": 99,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 39800,
+     "final": 39800,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 53.99,
+     "final": 53.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 100,
+     "final": 100,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 5.99,
+     "final": 5.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 4.99,
+     "final": 4.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "48",
+    "current": "48",
+    "discount": 0,
+    "lowest": 24,
+    "isLowest": false
+   }
+  },
+  "582010": {
+   "name": "Monster Hunter: World",
+   "nameCN": "怪物猎人：世界",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 148,
+     "final": 38.48,
+     "discount": 74
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 29.99,
+     "final": 7.79,
+     "discount": 74
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 24.98,
+     "final": 6.49,
+     "discount": 74
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 29.99,
+     "final": 7.79,
+     "discount": 74
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 299000,
+     "final": 77700,
+     "discount": 74
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 3680000,
+     "final": 957000,
+     "discount": 74
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 1997,
+     "final": 519,
+     "discount": 74
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 129,
+     "final": 33.54,
+     "discount": 74
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 49.99,
+     "final": 12.99,
+     "discount": 74
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 44.94,
+     "final": 11.68,
+     "discount": 74
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 449,
+     "final": 116.74,
+     "discount": 74
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 228,
+     "final": 59.28,
+     "discount": 74
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 86000,
+     "final": 22300,
+     "discount": 74
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 129.01,
+     "final": 33.54,
+     "discount": 74
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 329,
+     "final": 85.54,
+     "discount": 74
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 22.49,
+     "final": 5.84,
+     "discount": 74
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 23,
+     "final": 5.98,
+     "discount": 74
+    }
+   },
+   "heybox": {
+    "initial": "148",
+    "current": "38.48",
+    "discount": 74,
+    "lowest": 38,
+    "isLowest": true
+   }
+  },
+  "814380": {
+   "name": "Sekiro: Shadows Die Twice",
+   "nameCN": "只狼",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 268,
+     "final": 268,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.9,
+     "final": 49.9,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 836000,
+     "final": 836000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 7500000,
+     "final": 7500000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 4997,
+     "final": 4997,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 274,
+     "final": 274,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 1299,
+     "final": 1299,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 398,
+     "final": 398,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 159000,
+     "final": 159000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 254,
+     "final": 254,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 659,
+     "final": 659,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "268",
+    "current": "268",
+    "discount": 0,
+    "lowest": 134,
+    "isLowest": false
+   }
+  },
+  "892970": {
+   "name": "Valheim",
+   "nameCN": "英灵神殿",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 89,
+     "final": 89,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 29.99,
+     "final": 29.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 23.49,
+     "final": 23.49,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 29.99,
+     "final": 29.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 340000,
+     "final": 340000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 3200000,
+     "final": 3200000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 1299,
+     "final": 1299,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 1300,
+     "final": 1300,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 89.99,
+     "final": 89.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 37.99,
+     "final": 37.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 43.95,
+     "final": 43.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 350,
+     "final": 350,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 187,
+     "final": 187,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 64800,
+     "final": 64800,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 99.99,
+     "final": 99.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 335,
+     "final": 335,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "89",
+    "current": "89",
+    "discount": 0,
+    "lowest": 35,
+    "isLowest": false
+   }
+  },
+  "990080": {
+   "name": "Hogwarts Legacy",
+   "nameCN": "霍格沃茨之遗",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 384,
+     "final": 384,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 877800,
+     "final": 877800,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 7980000,
+     "final": 7980000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 3999,
+     "final": 3999,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 249.99,
+     "final": 249.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 999,
+     "final": 999,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 468,
+     "final": 468,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 169000,
+     "final": 169000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 269,
+     "final": 269,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 599,
+     "final": 599,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 30,
+     "final": 30,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "384",
+    "current": "384",
+    "discount": 0,
+    "lowest": 38,
+    "isLowest": false
+   }
+  },
+  "1086940": {
+   "name": "Baldur's Gate 3",
+   "nameCN": "博德之门3",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 298,
+     "final": 208.6,
+     "discount": 30
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 41.99,
+     "discount": 30
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.99,
+     "final": 34.99,
+     "discount": 30
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 41.99,
+     "discount": 30
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 849900,
+     "final": 594900,
+     "discount": 30
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 6600000,
+     "final": 4620000,
+     "discount": 30
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 1999,
+     "final": 1399,
+     "discount": 30
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 2999,
+     "final": 2099,
+     "discount": 30
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 199.99,
+     "final": 139.99,
+     "discount": 30
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 55.99,
+     "discount": 30
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 62.96,
+     "discount": 30
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 1299,
+     "final": 909.3,
+     "discount": 30
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 399,
+     "final": 279.3,
+     "discount": 30
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 159900,
+     "final": 111900,
+     "discount": 30
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 249,
+     "final": 174.3,
+     "discount": 30
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 599,
+     "final": 419.3,
+     "discount": 30
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 34.99,
+     "final": 24.49,
+     "discount": 30
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 34.99,
+     "final": 24.49,
+     "discount": 30
+    }
+   },
+   "heybox": {
+    "initial": "298",
+    "current": "208.6",
+    "discount": 30,
+    "lowest": 209,
+    "isLowest": true
+   }
+  },
+  "1091500": {
+   "name": "Cyberpunk 2077",
+   "nameCN": "赛博朋克2077",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 298,
+     "final": 298,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 877800,
+     "final": 877800,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 6600000,
+     "final": 6600000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 2999,
+     "final": 2999,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 199.9,
+     "final": 199.9,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 999,
+     "final": 999,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 399,
+     "final": 399,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 159900,
+     "final": 159900,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 199,
+     "final": 199,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 579,
+     "final": 579,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 44.99,
+     "final": 44.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 44.99,
+     "final": 44.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "298",
+    "current": "298",
+    "discount": 0,
+    "lowest": 89,
+    "isLowest": false
+   }
+  },
+  "1145360": {
+   "name": "Hades",
+   "nameCN": "哈迪斯",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 92,
+     "final": 92,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 24.99,
+     "final": 24.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 20.99,
+     "final": 20.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 24.5,
+     "final": 24.5,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 280000,
+     "final": 280000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 2700000,
+     "final": 2700000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 880,
+     "final": 880,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 1100,
+     "final": 1100,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 73.99,
+     "final": 73.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 32.5,
+     "final": 32.5,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 36.5,
+     "final": 36.5,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 282.99,
+     "final": 282.99,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 156,
+     "final": 156,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 40800,
+     "final": 40800,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 114.99,
+     "final": 114.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 280,
+     "final": 280,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 8.25,
+     "final": 8.25,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 4.99,
+     "final": 4.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "92",
+    "current": "92",
+    "discount": 0,
+    "lowest": 23,
+    "isLowest": false
+   }
+  },
+  "1174180": {
+   "name": "Red Dead Redemption 2",
+   "nameCN": "荒野大镖客2",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 279,
+     "final": 279,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 861800,
+     "final": 861800,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 7300000,
+     "final": 7300000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 4999,
+     "final": 4999,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 299.9,
+     "final": 299.9,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 1199,
+     "final": 1199,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 468,
+     "final": 468,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 179000,
+     "final": 179000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 249.9,
+     "final": 249.9,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 719,
+     "final": 719,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "279",
+    "current": "279",
+    "discount": 0,
+    "lowest": 70,
+    "isLowest": false
+   }
+  },
+  "1245620": {
+   "name": "ELDEN RING",
+   "nameCN": "艾尔登法环",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 298,
+     "final": 298,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 902000,
+     "final": 902000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 6480000,
+     "final": 6480000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 3599,
+     "final": 3599,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 3599,
+     "final": 3599,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 274.5,
+     "final": 274.5,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 979,
+     "final": 979,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 479,
+     "final": 479,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 179000,
+     "final": 179000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 249,
+     "final": 249,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 599,
+     "final": 599,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 39.99,
+     "final": 39.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 47.99,
+     "final": 47.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "298",
+    "current": "298",
+    "discount": 0,
+    "lowest": 179,
+    "isLowest": false
+   }
+  },
+  "1623730": {
+   "name": "Palworld",
+   "nameCN": "幻兽帕鲁",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 108,
+     "final": 108,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 29.99,
+     "final": 29.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 24.99,
+     "final": 24.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 28.99,
+     "final": 28.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 340000,
+     "final": 340000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 3200000,
+     "final": 3200000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 1100,
+     "final": 1100,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 1300,
+     "final": 1300,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 88.99,
+     "final": 88.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 38.99,
+     "final": 38.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 43.95,
+     "final": 43.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 334.99,
+     "final": 334.99,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 187,
+     "final": 187,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 48800,
+     "final": 48800,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 99.99,
+     "final": 99.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 335,
+     "final": 335,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 14.99,
+     "final": 14.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "108",
+    "current": "108",
+    "discount": 0,
+    "lowest": 76,
+    "isLowest": false
+   }
+  },
+  "1817190": {
+   "name": "Marvel's Spider-Man Remastered",
+   "nameCN": "漫威蜘蛛侠重制版",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 345,
+     "final": 345,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 39.99,
+     "final": 39.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 649000,
+     "final": 649000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 5280000,
+     "final": 5280000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 3299,
+     "final": 3299,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 199.9,
+     "final": 199.9,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 64.99,
+     "final": 64.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 74.95,
+     "final": 74.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 829,
+     "final": 829,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 398,
+     "final": 398,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 119000,
+     "final": 119000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 219,
+     "final": 219,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 499,
+     "final": 499,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "414",
+    "current": "414",
+    "discount": 0,
+    "lowest": 254,
+    "isLowest": false
+   }
+  },
+  "1868140": {
+   "name": "DAVE THE DIVER",
+   "nameCN": "潜水员戴夫",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 80,
+     "final": 80,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 19.99,
+     "final": 19.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 16.99,
+     "final": 16.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 19.99,
+     "final": 19.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 240000,
+     "final": 240000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 2400000,
+     "final": 2400000,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 880,
+     "final": 880,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 25.99,
+     "final": 25.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 29.99,
+     "final": 29.99,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 227.99,
+     "final": 227.99,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 125,
+     "final": 125,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 35000,
+     "final": 35000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 91.99,
+     "final": 91.99,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 220,
+     "final": 220,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 12.99,
+     "final": 12.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 12.99,
+     "final": 12.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "80",
+    "current": "80",
+    "discount": 0,
+    "lowest": 40,
+    "isLowest": false
+   }
+  },
+  "1888930": {
+   "name": "The Last of Us Part I",
+   "nameCN": "最后生还者",
+   "regions": {
+    "br": {
+     "currency": "BRL",
+     "initial": 249.9,
+     "final": 249.9,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 94.95,
+     "final": 94.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 999,
+     "final": 999,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 468,
+     "final": 468,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 149000,
+     "final": 149000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 259,
+     "final": 259,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 599,
+     "final": 599,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "414",
+    "current": "414",
+    "discount": 0,
+    "lowest": 379,
+    "isLowest": false
+   }
+  },
+  "2050650": {
+   "name": "RESIDENT EVIL 4",
+   "nameCN": "生化危机4重制版",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 198,
+     "final": 49.5,
+     "discount": 75
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 39.99,
+     "final": 9.99,
+     "discount": 75
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 34.99,
+     "final": 8.74,
+     "discount": 75
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 39.99,
+     "final": 9.99,
+     "discount": 75
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 399000,
+     "final": 99700,
+     "discount": 75
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 4980000,
+     "final": 1245000,
+     "discount": 75
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 2497,
+     "final": 624,
+     "discount": 75
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 169,
+     "final": 42.25,
+     "discount": 75
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 59.99,
+     "final": 14.99,
+     "discount": 75
+    }
+   },
+   "heybox": {
+    "initial": "198",
+    "current": "49.5",
+    "discount": 75,
+    "lowest": 50,
+    "isLowest": true
+   }
+  },
+  "2246340": {
+   "name": "Monster Hunter Wilds",
+   "nameCN": "怪物猎人：荒野",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 198,
+     "final": 148.5,
+     "discount": 25
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 39.99,
+     "final": 29.99,
+     "discount": 25
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 34.99,
+     "final": 26.24,
+     "discount": 25
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 39.99,
+     "final": 29.99,
+     "discount": 25
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 499000,
+     "final": 374200,
+     "discount": 25
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 4580000,
+     "final": 3435000,
+     "discount": 25
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 2499,
+     "final": 1874,
+     "discount": 25
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 169,
+     "final": 126.75,
+     "discount": 25
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 54.99,
+     "final": 41.24,
+     "discount": 25
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 62.95,
+     "final": 47.21,
+     "discount": 25
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 559,
+     "final": 419.25,
+     "discount": 25
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 298,
+     "final": 223.5,
+     "discount": 25
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 119000,
+     "final": 89200,
+     "discount": 25
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 169,
+     "final": 126.75,
+     "discount": 25
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 439,
+     "final": 329.25,
+     "discount": 25
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 29.99,
+     "final": 22.49,
+     "discount": 25
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 29,
+     "final": 21.75,
+     "discount": 25
+    }
+   },
+   "heybox": {
+    "initial": "198",
+    "current": "148.5",
+    "discount": 25,
+    "lowest": 146,
+    "isLowest": false
+   }
+  },
+  "2358720": {
+   "name": "Black Myth: Wukong",
+   "nameCN": "黑神话：悟空",
+   "regions": {
+    "cn": {
+     "currency": "CNY",
+     "initial": 268,
+     "final": 268,
+     "discount": 0
+    },
+    "us": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "gb": {
+     "currency": "GBP",
+     "initial": 49.99,
+     "final": 49.99,
+     "discount": 0
+    },
+    "de": {
+     "currency": "EUR",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "jp": {
+     "currency": "JPY",
+     "initial": 759000,
+     "final": 759000,
+     "discount": 0
+    },
+    "kr": {
+     "currency": "KRW",
+     "initial": 6480000,
+     "final": 6480000,
+     "discount": 0
+    },
+    "ru": {
+     "currency": "RUB",
+     "initial": 3599,
+     "final": 3599,
+     "discount": 0
+    },
+    "in": {
+     "currency": "INR",
+     "initial": 3599,
+     "final": 3599,
+     "discount": 0
+    },
+    "br": {
+     "currency": "BRL",
+     "initial": 229.99,
+     "final": 229.99,
+     "discount": 0
+    },
+    "ca": {
+     "currency": "CAD",
+     "initial": 79.99,
+     "final": 79.99,
+     "discount": 0
+    },
+    "au": {
+     "currency": "AUD",
+     "initial": 89.95,
+     "final": 89.95,
+     "discount": 0
+    },
+    "mx": {
+     "currency": "MXN",
+     "initial": 999,
+     "final": 999,
+     "discount": 0
+    },
+    "hk": {
+     "currency": "HKD",
+     "initial": 298,
+     "final": 298,
+     "discount": 0
+    },
+    "tw": {
+     "currency": "TWD",
+     "initial": 128000,
+     "final": 128000,
+     "discount": 0
+    },
+    "pl": {
+     "currency": "PLN",
+     "initial": 249,
+     "final": 249,
+     "discount": 0
+    },
+    "no": {
+     "currency": "NOK",
+     "initial": 599,
+     "final": 599,
+     "discount": 0
+    },
+    "tr": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    },
+    "ar": {
+     "currency": "USD",
+     "initial": 59.99,
+     "final": 59.99,
+     "discount": 0
+    }
+   },
+   "heybox": {
+    "initial": "268",
+    "current": "268",
+    "discount": 0,
+    "lowest": 188,
+    "isLowest": false
+   }
+  }
+ }
+}
